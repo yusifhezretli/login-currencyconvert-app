@@ -1,0 +1,236 @@
+{
+    "ValCurs": {
+      "ValType": [
+      
+        {
+          "Valute": [
+            {
+              "Nominal": 1,
+              "Name": "1 ABŞ dolları",
+              "Value": 1.7
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Avro",
+              "Value": 1.8414
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Avstraliya dolları",
+              "Value": 1.1081
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Argentina pesosu",
+              "Value": 0.002
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Belarus rublu",
+              "Value": 0.5195
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Braziliya realı",
+              "Value": 0.3445
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 BƏƏ dirhəmi",
+              "Value": 0.4628
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Cənubi Afrika randı",
+              "Value": 0.0888
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 Cənubi Koreya vonu",
+              "Value": 0.1273
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Çexiya kronu",
+              "Value": 0.0727
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 Çili pesosu",
+              "Value": 0.173
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Çin yuanı",
+              "Value": 0.2361
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Danimarka kronu",
+              "Value": 0.247
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Gürcüstan larisi",
+              "Value": 0.6398
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Honq Konq dolları",
+              "Value": 0.2172
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Hindistan rupisi",
+              "Value": 0.0205
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 İngiltərə funt sterlinqi",
+              "Value": 2.1532
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 İndoneziya rupiası",
+              "Value": 0.0108
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 İran rialı",
+              "Value": 0.004
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 İsveç kronu",
+              "Value": 0.1646
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 İsveçrə frankı",
+              "Value": 1.9317
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 İsrail şekeli",
+              "Value": 0.4711
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Kanada dolları",
+              "Value": 1.2552
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Küveyt dinarı",
+              "Value": 5.5248
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Qazaxıstan tengəsi",
+              "Value": 0.0038
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Qırğızıstan somu",
+              "Value": 0.019
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 Livan funtu",
+              "Value": 0.0019
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Malayziya rinqqiti",
+              "Value": 0.3571
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Meksika pesosu",
+              "Value": 0.0996
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Moldova leyi",
+              "Value": 0.0955
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Misir funtu",
+              "Value": 0.055
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Norveç kronu",
+              "Value": 0.161
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 Özbəkistan somu",
+              "Value": 0.0136
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Polşa zlotısı",
+              "Value": 0.4276
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Rusiya rublu",
+              "Value": 0.0184
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Sinqapur dolları",
+              "Value": 1.2635
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Səudiyyə Ərəbistanı rialı",
+              "Value": 0.4533
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 SDR (BVF-nin xüsusi borcalma hüquqları)",
+              "Value": 2.2585
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Türkiyə lirəsi",
+              "Value": 0.0546
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Tayvan dolları",
+              "Value": 0.0538
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Tacikistan somonisi",
+              "Value": 0.1552
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Türkmənistan manatı",
+              "Value": 0.4857
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Ukrayna qrivnası",
+              "Value": 0.0444
+            },
+            {
+              "Nominal": 100,
+              "Name": "100 Yaponiya yeni",
+              "Value": 1.1288
+            },
+            {
+              "Nominal": 1,
+              "Name": "1 Yeni Zelandiya dolları",
+              "Value": 1.0393
+            }
+          ]
+        }
+      ]
+    }
+  }
